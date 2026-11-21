@@ -1,0 +1,6 @@
+*.apk
+build/
+classes/
+unsigned.apk
+aligned.apk
+*.keystore
